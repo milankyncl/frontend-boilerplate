@@ -1,0 +1,33 @@
+{
+    "name": "frontend-template",
+    "version": "1.0.0",
+    "description": "Boilerplate for modern frontend web apps.",
+    "directories": {
+        "test": "tests"
+    },
+    "dependencies": {
+        "gulp": "^3.9.1",
+        "surge": "^0.19.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/milankyncl/frontend-boilerplate.git"
+    },
+    "keywords": [
+        "frontend",
+        "gulp",
+        "surge",
+        "html",
+        "scss",
+        "javascript"
+    ],
+    "author": "Milan Kyncl <kontakt@milankyncl.cz>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/milankyncl/frontend-boilerplate/issues"
+    },
+    "homepage": "https://github.com/milankyncl/frontend-boilerplate#readme"
+}
